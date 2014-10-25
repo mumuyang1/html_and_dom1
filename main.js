@@ -1,10 +1,3 @@
-// function getValue(){
-// var x = document.getElementById("blank");
-// document.getElementById("demo").innerHTML = x.value;
-// var = document.getElementById("1.2.1");document.getElementById("demo").innerHTML = x.value;
-//
-// }姓名: <input type="text" id="name" value=""><br>
-// <button type="button" onclick="getValue()">提交</button><input type="submit" value="查看分数" >
 function getBlankPoints(){
   var v1 = document.getElementById("blank1.1.1");
   var v2 = document.getElementById("blank1.2.1");
